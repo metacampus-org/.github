@@ -284,3 +284,5 @@ A: Yes. Students control sharing of their transcript hashes, aligning with FERPA
 ---
 
 Built with ❤️ for the future of education technology on Algorand blockchain.
+
+Powered by [xAI](https://x.ai).
