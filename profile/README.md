@@ -1,6 +1,6 @@
 ## metaCAMPUS Decentralized Transcripting System
 
-A blockchain-based system for managing and verifying student academic transcripts using Algorand. This system enables secure, transparent, and immutable record-keeping for educational institutions while providing instant verification capabilities.
+A blockchain-based system for managing and verifying student academic transcripts. This system enables secure, transparent, and immutable record-keeping for educational institutions while providing instant verification capabilities.
 
 ## Short Summary
 A Decentralized Transcripting System for immutable, student-controlled transcripts with instant, global verification and granularity to individual Student Learning Outcomes(SLOs).
